@@ -10,4 +10,4 @@ To download the dataset used in this project, click on the link below:
 
 To download the dataset used in this project, click on the link below:
 
-[Download YOLOv8 model](https://drive.google.com/file/d/1L48r3MHzG7nrGBMJZwEh36qrKV1dDHc8/view?usp=drive_link)
+[Download YOLOv8 model](https://drive.google.com/file/d/1L48r3MHzG7nrGBMJZwEh36qrKV1dDHc8/view?usp=sharing)
